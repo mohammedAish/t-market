@@ -1,0 +1,134 @@
+.contantH{
+    background-image: url(../images/bg_new.png);
+    background-position: center;
+    background-size: cover;
+}
+.bb{
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+    background-color: #F9A22A;
+} 
+.collapse ul li a:hover{
+    border-style:ridge;
+}
+.contantTop{
+    margin-bottom: 100px;
+}
+.tools{
+    background-color: #ffffff;
+    margin-top: -100px;
+     border-style: outset;
+    border-bottom-right-radius: 70px;
+}
+.tools .fontcolor h4{
+    color: #F9A22A;
+    font-size: 18px;
+}
+.tools .fontcolor i{
+    color: #F9A22A;
+    font-size: 30px;
+}
+.about h2{
+     color: #F9A22A;
+
+}
+.about h5{
+     color: #F9A22A;
+
+}
+.about i{
+     color: #F9A22A;
+
+}
+.Features{
+    background-color: #F5F4F4;
+}
+.Features .row{
+  background-image: url(../images/tree.png);
+     background-position: center;
+    background-repeat: no-repeat;
+}
+.Features .tree{
+  
+     background-image: url(../images/Path%20939.svg);
+    height: 190px;
+    width: 420px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+.Features .tree2{
+     background-image: url(../images/Path%2000939.svg);
+    height: 190px;
+    width: 420px;
+     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+   
+}
+
+.fcolor{
+    color: #F9A22A;
+}
+
+.form-group input{
+    border-color: #F9A22A
+}
+.form-group textarea{
+        border-color: #F9A22A
+}
+.ContactUs{
+background-image: url(../images/map.png);
+    background-position: center;
+        background-size: cover;
+
+    background-repeat: no-repeat;}
+.ContactUs .bor{
+    background-image: url(../images/Path%202184.svg);
+  background-repeat: no-repeat;
+    background-size: cover;
+}
+.ContactUs button{
+    background-image: url(../images/Bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+ 
+.ContactUs button:hover{
+    color: #fff;
+}
+footer ul a i{
+    color: #F9A22A;
+}
+footer{
+        color: #F9A22A;
+}
+@media(max-width:736px) {
+    body {
+        margin: 0px;
+        padding: 0px;
+    }
+    .ContactUs .im img{
+        width: 305px;
+        height: 5px;
+   
+    }
+    .Features .tree{
+  
+    height: 240px;
+    width: 340px;
+ 
+          }
+        .Features .tree2{
+  
+    height: 240px;
+    width: 340px;
+   
+          }
+    .ContactUs {
+        margin: 0px;
+    }
+     
+}
